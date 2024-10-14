@@ -10,7 +10,7 @@ Tech Lead with extensive experience in front-end technologies, AWS, web developm
 - D3.js, Cube.js, Apollo GraphQL, Type GraphQL
 
 ### Languages & Tools
-- HTML5, CSS3, SASS, JavaScript, Python
+- HTML5, CSS3, SASS, JavaScript, Python, Go
 
 ### Databases
 - MySQL, PostgreSQL, DynamoDB
@@ -23,7 +23,7 @@ Tech Lead with extensive experience in front-end technologies, AWS, web developm
 - Amazon Web Services (AWS)
 
 ### CI / CD Tools
-- GitHub Actions, TeamCity, CircleCI, Docker
+- GitHub Actions, TeamCity, CircleCI, Docker, Vercel
 
 ### Testing Tools
 - Cypress, Playwright, React Testing Library, Chromatic
@@ -32,7 +32,7 @@ Tech Lead with extensive experience in front-end technologies, AWS, web developm
 - Nginx
 
 ### Mobile Development
-- iOS
+- iOS (Swift)
 
 ---
 
