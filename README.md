@@ -10,7 +10,7 @@ Tech Lead with extensive experience in front-end technologies, AWS, web developm
 - D3.js, Cube.js, Apollo GraphQL, Type GraphQL
 
 ### Languages & Tools
-- HTML5, CSS3, SASS, JavaScript, Python
+- HTML5, CSS3, SASS, JavaScript, Python, Go
 
 ### Databases
 - MySQL, PostgreSQL, DynamoDB
